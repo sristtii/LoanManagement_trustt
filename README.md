@@ -27,5 +27,5 @@ The Loan Management System is a Spring Boot application designed to manage loan 
    ```bash
    git clone https://github.com/sristtii/LoanManagement_trustt.git
 
-###REFERENCE IMAGE
+### REFERENCE IMAGE
 <img width="464" alt="Screenshot 2024-10-30 124326" src="https://github.com/user-attachments/assets/455e1686-2a24-4a79-be8e-f5ae42f665bf">
